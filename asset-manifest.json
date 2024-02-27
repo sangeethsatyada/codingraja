@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codingaraja/static/css/main.d3220cd2.css",
+    "main.js": "/codingaraja/static/js/main.8aca6826.js",
+    "static/js/453.ed6b48ab.chunk.js": "/codingaraja/static/js/453.ed6b48ab.chunk.js",
+    "index.html": "/codingaraja/index.html",
+    "main.d3220cd2.css.map": "/codingaraja/static/css/main.d3220cd2.css.map",
+    "main.8aca6826.js.map": "/codingaraja/static/js/main.8aca6826.js.map",
+    "453.ed6b48ab.chunk.js.map": "/codingaraja/static/js/453.ed6b48ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3220cd2.css",
+    "static/js/main.8aca6826.js"
+  ]
+}
